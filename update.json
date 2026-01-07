@@ -2,10 +2,11 @@
   "latest_version": "3.1.0",
   "mandatory": false,
   "released_at": "2025-11-12T10:15:00Z",
-  "download_url": "https://github.com/tools-msft/tools-update/releases/download/V3.1.0/PartnerFirmwareTool-U.exe",
-  "sha256": "211ed34a028961daa6f32f7f6e88364bd5ad1789fec578f819f271abdf645b9d",
-  "release_notes_url": "https://github.com/tools-msft/tools-update/releases/tag/v3.1.0"  
+  "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v4.1.0/PartnerFirmwareTool.exe",
+  "sha256": "7715f5ce649a1aa6af0817cb0c7b8ccf7542e697b4b37d1fa720050f375ba08c",
+  "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v4.1.0"  
 }
+
 
 
 
