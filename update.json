@@ -3,9 +3,10 @@
   "mandatory": false,
   "released_at": "2025-11-12T10:15:00Z",
   "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v3.2.0/PartnerFirmwareTool.exe",
-  "sha256": "6be99bed1ba3c75215f20886e40aa2f660896419256fae9142138c7b1d14988b",
+  "sha256": "fe2ab7bda69e16d28ff9f71bc4d42978d6c66190b4e51e192c41bced230f1c0b",
   "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v3.2.0"  
 }
+
 
 
 
