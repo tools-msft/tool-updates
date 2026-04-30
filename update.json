@@ -1,10 +1,10 @@
 {
-  "latest_version": "3.5.2",
+  "latest_version": "3.5.3",
   "mandatory": false,
   "released_at": "2025-11-12T10:15:00Z",
-  "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v3.5.2/DeviceOpsStudiosSetup_v3.5.2.exe",
-  "sha256": "b933efbde12c8fc87a2107f88ba049c30058742ab9f9b8b2704765e418e7a7ac",
-  "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v3.5.2"  
+  "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v3.5.3/DeviceOpsStudiosSetup_v3.5.3.exe",
+  "sha256": "3d7d79d1957e5edbd576a348b59dfdb71fd2479636ffa2c8fd03647e088ff627",
+  "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v3.5.3"  
 }
 
 
