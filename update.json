@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.6.2",
+  "latest_version": "3.7.0",
   "mandatory": false,
-  "released_at": "2026-07-23T07:01:44Z",
-  "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v3.6.2/DeviceOpsStudiosSetup_v3.6.2.exe",
-  "sha256": "6352e039b273e3b8c92c84e7dbba0ecd2835ebc8367411bb32ad54767113940b",
-  "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v3.6.2"
+  "released_at": "2026-08-11T07:04:27Z",
+  "download_url": "https://github.com/tools-msft/tool-updates/releases/download/v3.7.0/DeviceOpsStudiosSetup_v3.7.0.exe",
+  "sha256": "a33c99ceaeef61d5fdb18bed39f4d6c85e2a7a45ab358a07a52d366d08770c72",
+  "release_notes_url": "https://github.com/tools-msft/tool-updates/releases/tag/v3.7.0"
 }
